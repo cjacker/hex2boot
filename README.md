@@ -4,6 +4,9 @@ EFM8 Factory Bootloader package [AN945SW](https://www.silabs.com/documents/publi
 
 This repo contains the source code of `hex2boot.py` with a BSD license.
 
+![screenshot-2022-06-10-09-13-34](https://user-images.githubusercontent.com/1625340/172972561-e8297914-93dd-41bd-aae5-aabbbb5756c7.png)
+
+
 For more information about bootload record, please refer to:
 
 - [AN945: EFM8 Factory Bootloader User's Guide](https://www.silabs.com/documents/public/application-notes/an945-efm8-factory-bootloader-user-guide.pdf)
